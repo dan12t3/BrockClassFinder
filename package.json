@@ -1,0 +1,19 @@
+{
+  "name": "brockclassfinder",
+  "version": "1.0.0",
+  "description": "\"# BrockClassFinder\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan12t3/BrockClassFinder.git"
+  },
+  "author": "Dan Usman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dan12t3/BrockClassFinder/issues"
+  },
+  "homepage": "https://github.com/dan12t3/BrockClassFinder#readme"
+}
